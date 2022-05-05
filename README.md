@@ -1,10 +1,10 @@
 # Animal-Trading-Card-
 
-About
-This is an animal trading card I made using HTML
-It contains inforamtion on a Sea Turtle
+<h2>About</h2>
+<p>This is an animal trading card I made using HTML and CSS. It contains information about Sea Turtles and uses multiple style properties.</p>
 
+<h2>CSS Properties</h2>
+<p>I used padding, font-size, margin, etc.</p>
 
-CSS Properties
-I usedd padding, font size, margins
-Downloading and viewing it will give you access to looking at the card
+<h2>Usage</h2>
+<p>Downloading the zip, extracting it, and opening it in your browser will allow you to view the card.</p>
