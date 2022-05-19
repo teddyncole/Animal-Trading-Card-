@@ -1,4 +1,4 @@
-# Animal-Trading-Card-
+# Animal-Trading-Card
 
 <h2>About</h2>
 <p>This is an animal trading card I made using HTML and CSS. It contains information about Sea Turtles and uses multiple style properties.</p>
